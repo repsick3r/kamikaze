@@ -1,0 +1,13 @@
+theme: jekyll-theme-primer
+
+plugins:
+  - jekyll-relative-links
+
+title: KAMIKAZE
+description: A Django site that predicts which institutes and branches fit your JEE Advanced rank, using previous years' JoSAA cutoffs, with a discussion forum alongside.
+baseurl: /kamikaze
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
